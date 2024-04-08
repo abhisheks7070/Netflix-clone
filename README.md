@@ -13,10 +13,4 @@ This project is a basic clone of the Netflix website created using HTML and CSS.
 - HTML
 - CSS
 
-## Screenshots
 
-![Netflix Clone Screenshot](screenshots/netflix_clone.png)
-
-## Usage
-
-1. Clone the repository:
